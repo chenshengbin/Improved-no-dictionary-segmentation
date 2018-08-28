@@ -1,0 +1,20 @@
+Metadata-Version: 1.1
+Name: wordseg
+Version: 0.1.0
+Summary: Chinese word segmentation algorithm without corpus
+Home-page: UNKNOWN
+Author: Shengbin Chen
+Author-email: UNKNOWN
+License: MIT
+Description-Content-Type: UNKNOWN
+Description: UNKNOWN
+Keywords: N,L,P,,,t,o,k,e,n,i,z,i,n,g,,,C,h,i,n,e,s,e, ,w,o,r,d, ,s,e,g,e,m,e,n,t,a,t,i,o,n
+Platform: UNKNOWN
+Classifier: Intended Audience :: Developers
+Classifier: Operating System :: OS Independent
+Classifier: Natural Language :: Chinese (Simplified)
+Classifier: Natural Language :: Chinese (Traditional)
+Classifier: Programming Language :: Python
+Classifier: Topic :: Text Processing
+Classifier: Topic :: Text Processing :: Indexing
+Classifier: Topic :: Text Processing :: Linguistic

@@ -1,0 +1,11 @@
+setup.py
+wordseg/__init__.py
+wordseg/freqitem.py
+wordseg/hashtree.py
+wordseg/probability.py
+wordseg/sequence.py
+wordseg/wordseg.py
+wordseg.egg-info/PKG-INFO
+wordseg.egg-info/SOURCES.txt
+wordseg.egg-info/dependency_links.txt
+wordseg.egg-info/top_level.txt
